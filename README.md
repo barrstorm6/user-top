@@ -1,6 +1,21 @@
 # User top
 
-Тестовое задание:
+## Формат Json
+
+    {
+    "userId": 2,
+    "levelId": 2,
+    "result": 90
+    }
+
+## Запуск проекта
+
+- git clone https://github.com/barrstorm6/user-top.git
+- cd user-top
+- ./mvnw spring-boot:run (Нужно прописать обязательно JavaHome)
+
+
+## Тестовое задание:
 
 Средствами java реализовать:
 
